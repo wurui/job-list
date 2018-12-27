@@ -2,9 +2,15 @@
   "RULE_VERSION":"20180724",
   "name": "job-list",
   "apiDependencies": [
-  {
-    "name": "info-recruit"
-  }
-]
+	  {
+	    "name": "info-recruit",
+	    "LINK":[
+	    	{
+	    		"name":"detail",
+	    		"title":"查看详情"
+	    	}
+	    ]
+	  }
+	]
 }
 
