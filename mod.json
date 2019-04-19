@@ -7,7 +7,8 @@
 	    "LINK":[
 	    	{
 	    		"name":"detail",
-	    		"title":"查看详情"
+	    		"title":"查看详情",
+	    		"target":"job-detail"
 	    	}
 	    ]
 	  }
